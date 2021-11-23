@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://kahio.github.io/sitemap.xml
